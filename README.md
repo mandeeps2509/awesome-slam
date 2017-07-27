@@ -56,6 +56,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 
 
 ### Papers
+- [VINS-Mono: A Robust and Versatile Monocular Visual-Inertial State Estimator](https://github.com/HKUST-Aerial-Robotics/VINS-Mono/blob/master/support_files/paper/tro_technical_report.pdf) (2017)
 - [Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age](https://arxiv.org/abs/1606.05830) (2016)
 - [Direct Sparse Odometry](https://arxiv.org/abs/1607.02565) (2016)
 - [Modelling Uncertainty in Deep Learning for Camera Relocalization](https://arxiv.org/abs/1509.05909) (2016)
@@ -116,6 +117,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 5.  [SVO: Semi-Direct Monocular Visual Odometry](https://github.com/uzh-rpg/rpg_svo)
 6.  [G2O: General Graph Optimization](https://github.com/RainerKuemmerle/g2o)
 7.  [RGBD-SLAM](https://github.com/felixendres/rgbdslam_v2)
+8.  [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
 
 
 ### Miscellaneous
