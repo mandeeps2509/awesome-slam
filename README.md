@@ -118,6 +118,7 @@ Simultaneous Localization and Mapping, also known as SLAM, is the computational 
 6.  [G2O: General Graph Optimization](https://github.com/RainerKuemmerle/g2o)
 7.  [RGBD-SLAM](https://github.com/felixendres/rgbdslam_v2)
 8.  [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono)
+9.  [DSO](https://github.com/JakobEngel/dso)
 
 
 ### Miscellaneous
